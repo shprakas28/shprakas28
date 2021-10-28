@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shiv Prakash
 - 👀 I’m interested in Data Structure and Algorithm , Power Electronics
-- 🌱 I’m currently learning  DSA, MAchine learning
+- 🌱 I’m currently learning  DSA, Machine learning
 - 💞️ I’m looking to collaborate on DSA
 - 📫 How to reach me shprakas28@gmail.com, LinkedIn - https://www.linkedin.com/in/shiv-prakash-2a4495134/
 
